@@ -37,6 +37,7 @@
 *.exe
 *.out
 *.app
+*.webm
 
 # Build directories
 build/
