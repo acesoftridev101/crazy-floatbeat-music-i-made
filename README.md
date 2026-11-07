@@ -8,3 +8,5 @@ Cool trick huh? Well just add ?sub_confirmation=1 to the link then it will go li
 Artsa Os link.
 the link to my artsa os (only source code) is https://github.com/acesoftridev101/ArtsaOs
 
+my repositories!
+https://github.com/acesoftridev101?tab=repositories
